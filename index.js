@@ -11,7 +11,7 @@ if (value1 > 0 && value2 > 0 || value1 < 0 && value2 < 0) {
 } else if (value1 !== 0 && value2 == 0) {
     console.log(result = value1);
 } else {
-    console.log(result = 'NaN');
+    console.log(result = NaN);
 }
 
 // task 2
